@@ -144,7 +144,7 @@ Landing Page
 
 Student Dashboard
 
-![student dashboard dark](https://github.com/rudrax14/MERN_STACK-StudentTeacher-Booking-Appointment/assets/97178716/ab39e093-3bad-4101-982d-5eb459593580)
+![student dashboard dark](https://github.com/naazbano/Student-teacher-appointment/issues/2#issue-3184620647)
 
 Teacher Dashboard
 
