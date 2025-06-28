@@ -160,12 +160,12 @@ Admin Dashboard
 **Student**
  ```bash
 email: student@gmail.com
-Password: pass123
+Password: student123
  ```
 **Teacher**
  ```bash
 email: teacher@gmail.com
-Password: pass123
+Password: teacher123
  ```
 **Admin**
  ```bash
